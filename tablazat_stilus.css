@@ -1,0 +1,39 @@
+body{
+    background-color:gray ;
+}
+table{
+   background-color: blue;
+    border: 2px solid black;
+    margin: auto;
+}
+td{
+    border: 2px solid black;
+    height: 200px; 
+    width: 200px;  
+   }
+   .black{
+    background-color: black;
+   }
+   .white{
+       background-color: white;
+   }
+   h1{
+       color: white;
+       text-align: center;
+   }
+   #kedvenc{
+       background-color: mediumturquoise;
+   }
+   .szepdiv{
+       background-color: darkgray;
+       margin: 5px;
+       padding: 10px;
+       float: left;
+       width: 25%;
+       text-align: justify;
+   }
+   .container{
+       border: 2px dotted black;
+       display: flex; 
+       justify-content: space-around;
+   }
